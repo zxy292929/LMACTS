@@ -1,0 +1,1 @@
+Convolutional Layers,Pooling Layers,Fully Connected (Dense) Layers,Skip Connections,Dropout
